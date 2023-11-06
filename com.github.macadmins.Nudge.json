@@ -23,8 +23,8 @@
                 }
             ],
             "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-            "requiredInstallationDate": "2023-11-05T00:00:00Z",
-            "requiredMinimumOSVersion": "14.1",
+            "requiredInstallationDate": "2023-11-25T00:00:00Z",
+            "requiredMinimumOSVersion": "14.2",
             "targetedOSVersionsRule": "default"
         }
     ],
@@ -32,7 +32,7 @@
         "allowGracePeriods": true,
         "allowLaterDeferralButton": true,
         "allowUserQuitDeferrals": true,
-        "allowedDeferrals": 10,
+        "allowedDeferrals": 100,
         "allowedDeferralsUntilForcedSecondaryQuitButton": 1,
         "approachingRefreshCycle": 6000,
         "approachingWindowTime": 72,
