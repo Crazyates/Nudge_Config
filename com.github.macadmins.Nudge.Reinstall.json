@@ -22,6 +22,7 @@
                     "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new"
                 }
             ],
+            "actionButtonPath": "/Library/Management/erase-install/erase-install.sh --reinstall --os=14 --dialog-on-download --no-fs --min-drive-space 38",
             "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
             "requiredInstallationDate": "2023-11-25T00:00:00Z",
             "requiredMinimumOSVersion": "14.2",
@@ -52,6 +53,7 @@
         "randomDelay": false
     },
     "userInterface": {
+        "actionButtonPath": "/Library/Management/erase-install/erase-install.sh --reinstall --os=14 --dialog-on-download --no-fs --min-drive-space 38",
         "fallbackLanguage": "en",
         "forceFallbackLanguage": false,
         "forceScreenShotIcon": false,
