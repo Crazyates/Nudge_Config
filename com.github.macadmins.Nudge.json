@@ -15,37 +15,25 @@
     },
     "osVersionRequirements": [
         {
-            "aboutUpdateURL_disabled": "https://knighthawks.freshdesk.com/support/tickets/new",
+            "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT211896#macos1121",
             "aboutUpdateURLs": [
                 {
                     "_language": "en",
-                    "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new"
-                }.
-            {
-                "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new",
-                "requiredInstallationDate": "2023-11-25T00:00:00Z",
-                "requiredMinimumOSVersion": "14.0",
-                "targetedOSVersionsRule": "12"
-            },
-            {
-                "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new",
-                "requiredInstallationDate": "2023-11-25T00:00:00Z",
-                "requiredMinimumOSVersion": "14.0",
-                "targetedOSVersionsRule": "13"
-            },
-            {
-                "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new",
-                "requiredInstallationDate": "2023-11-25T00:00:00Z",
-                "requiredMinimumOSVersion": "14.2",
-                "targetedOSVersionsRule": "14"
+                    "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos1121"
+                }
+            ],
+            "actionButtonPath": "",
+            "requiredInstallationDate": "2023-11-25T00:00:00Z",
+            "requiredMinimumOSVersion": "14.1",
+            "targetedOSVersionsRule": "default"
         }
     ],
     "userExperience": {
-        "allowGracePeriods": true,
+        "allowGracePeriods": false,
         "allowLaterDeferralButton": true,
         "allowUserQuitDeferrals": true,
-        "allowedDeferrals": 100,
-        "allowedDeferralsUntilForcedSecondaryQuitButton": 1,
+        "allowedDeferrals": 1000000,
+        "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
         "approachingRefreshCycle": 6000,
         "approachingWindowTime": 144,
         "calendarDeferralUnit": "imminentWindowTime",
@@ -64,6 +52,7 @@
         "randomDelay": false
     },
     "userInterface": {
+        "actionButtonPath": "",
         "fallbackLanguage": "en",
         "forceFallbackLanguage": false,
         "forceScreenShotIcon": false,
@@ -80,7 +69,7 @@
                 "actionButtonText": "Update Device",
                 "customDeferralButtonText": "Custom",
                 "customDeferralDropdownText": "Defer",
-                "informationButtonText": "Having trouble updating? Create a ticket",
+                "informationButtonText": "More Info",
                 "mainContentHeader": "Your device will restart during this update",
                 "mainContentNote": "Important Notes",
                 "mainContentSubHeader": "Updates can take around 30 minutes to complete",
@@ -90,7 +79,7 @@
                 "oneHourDeferralButtonText": "One Hour",
                 "primaryQuitButtonText": "Later",
                 "secondaryQuitButtonText": "I understand",
-                "subHeader": "A friendly reminder from the MSAD #60 Tech Dept"
+                "subHeader": "A friendly reminder from the MSAD  #60 Tech Dept"
             }
         ]
     }
