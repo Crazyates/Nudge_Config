@@ -22,7 +22,6 @@
                     "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos1121"
                 }
             ],
-            "actionButtonPath": "",
             "requiredInstallationDate": "2023-11-25T00:00:00Z",
             "requiredMinimumOSVersion": "14.1",
             "targetedOSVersionsRule": "default"
@@ -52,7 +51,6 @@
         "randomDelay": false
     },
     "userInterface": {
-        "actionButtonPath": "",
         "fallbackLanguage": "en",
         "forceFallbackLanguage": false,
         "forceScreenShotIcon": false,
