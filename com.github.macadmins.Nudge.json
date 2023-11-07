@@ -15,13 +15,6 @@
     },
     "osVersionRequirements": [
         {
-            "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT211896#macos1121",
-            "aboutUpdateURLs": [
-                {
-                    "_language": "en",
-                    "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos1121"
-                }
-            ],
             "requiredInstallationDate": "2023-11-25T00:00:00Z",
             "requiredMinimumOSVersion": "14.1",
             "targetedOSVersionsRule": "12"
