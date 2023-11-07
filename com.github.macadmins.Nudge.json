@@ -20,12 +20,24 @@
                 {
                     "_language": "en",
                     "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new"
-                }
-            ],
-            "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-            "requiredInstallationDate": "2023-11-25T00:00:00Z",
-            "requiredMinimumOSVersion": "14.2",
-            "targetedOSVersionsRule": "default"
+                }.
+            {
+                "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new",
+                "requiredInstallationDate": "2023-11-25T00:00:00Z",
+                "requiredMinimumOSVersion": "14.0",
+                "targetedOSVersionsRule": "12"
+            },
+            {
+                "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new",
+                "requiredInstallationDate": "2023-11-25T00:00:00Z",
+                "requiredMinimumOSVersion": "14.0",
+                "targetedOSVersionsRule": "13"
+            },
+            {
+                "aboutUpdateURL": "https://knighthawks.freshdesk.com/support/tickets/new",
+                "requiredInstallationDate": "2023-11-25T00:00:00Z",
+                "requiredMinimumOSVersion": "14.2",
+                "targetedOSVersionsRule": "14"
         }
     ],
     "userExperience": {
