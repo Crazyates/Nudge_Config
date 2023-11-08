@@ -69,7 +69,7 @@
                 "_language": "en",
                 "actionButtonText": "Update Device",
                 "customDeferralButtonText": "Custom",
-                "customDeferralDropdownText": "30 Minutes",
+                "customDeferralDropdownText": "Defer",
                 "informationButtonText": "More Info",
                 "mainContentHeader": "Your device will restart during this update",
                 "mainContentNote": "Important Notes",
@@ -78,7 +78,7 @@
                 "mainHeader": "Your device requires a security update",
                 "oneDayDeferralButtonText": "One Day",
                 "oneHourDeferralButtonText": "One Hour",
-                "primaryQuitButtonText": "Later",
+                "primaryQuitButtonText": "30 Minutes",
                 "secondaryQuitButtonText": "I understand",
                 "subHeader": "A friendly reminder from the MSAD  #60 Tech Dept"
             }
