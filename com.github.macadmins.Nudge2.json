@@ -25,6 +25,7 @@
             "targetedOSVersionsRule": "13"
         },
         {
+            "actionButtonPath": "file:///Library/Management/erase-install/erase-install.sh --reinstall --os=14 --dialog-on-download --no-fs --min-drive-space 38",
             "requiredInstallationDate": "2023-11-25T00:00:00Z",
             "requiredMinimumOSVersion": "14.1.1",
             "targetedOSVersionsRule": "14"
