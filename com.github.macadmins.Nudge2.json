@@ -25,7 +25,7 @@
             "targetedOSVersionsRule": "13"
         },
         {
-            "actionButtonPath": "applescript:///Library/Management/erase-install/erase-install.scpt",
+            "actionButtonPath": "mosylemanager://",
             "requiredInstallationDate": "2023-11-25T00:00:00Z",
             "requiredMinimumOSVersion": "14.1.1",
             "targetedOSVersionsRule": "14"
