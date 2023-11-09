@@ -21,12 +21,12 @@
         },
         {
             "requiredInstallationDate": "2023-11-25T00:00:00Z",
-            "requiredMinimumOSVersion": "13.6.1",
+            "requiredMinimumOSVersion": "13.6",
             "targetedOSVersionsRule": "13"
         },
         {
             "requiredInstallationDate": "2023-11-25T00:00:00Z",
-            "requiredMinimumOSVersion": "14.1.1",
+            "requiredMinimumOSVersion": "14.1",
             "targetedOSVersionsRule": "14"
         }
     ],
